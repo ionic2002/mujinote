@@ -1,8 +1,8 @@
 
 var widgetNavigatorIndexElem;
 switch(document.referrer) {
-	case "http://mujinote.github.io/index.html": 
-	case "http://mujinote.github.io/": 
+	case "http://mujinote.donghyuc.com/index.html": 
+	case "http://mujinote.donghyuc.com/": 
 		break; 
 	default: 
 	
