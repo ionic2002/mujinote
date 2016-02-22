@@ -1,2 +1,2 @@
-permalink: /post/:title
+permalink: /:title
 # paginate: 3
